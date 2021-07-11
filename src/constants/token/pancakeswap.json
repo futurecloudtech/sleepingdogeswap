@@ -1,0 +1,28 @@
+{
+  "name": "pancakeswap",
+  "timestamp": "2020-08-25T15:41:29.665Z",
+  "version": {
+    "major": 1,
+    "minor": 3,
+    "patch": 1
+  },
+  "tags": {},
+  "logoURI": "/images/coins/wbnb.png",
+  "keywords": ["pancake", "default"],
+  "tokens": [
+    {
+      "name": "WBNB Token",
+      "symbol": "WBNB",
+      "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+      "chainId": 56,
+      "decimals": 18
+    },
+    {
+      "name": "SleepingDoge Token",
+      "symbol": "SLPDOGE",
+      "address": "0xc748673057861a797275cd8a068abb95a902e8de",
+      "chainId": 56,
+      "decimals": 9
+    }
+  ]
+}
