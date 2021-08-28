@@ -1,0 +1,30 @@
+{
+  "name": "PancakeSwap Default List",
+  "timestamp": "2021-03-17T09:56:23Z",
+  "version": {
+    "major": 2,
+    "minor": 10,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "/images/pancakeswap.png",
+  "keywords": ["pancake", "default"],
+  "tokens": [
+    {
+      "name": "BUSD Token",
+      "symbol": "BUSD",
+      "address": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "/images/coins/0xe9e7cea3dedca5984780bafc599bd69add087d56.png"
+    },
+    {
+      "name": "ZZZDOGE Token",
+      "symbol": "ZZZDOGE",
+      "address": "0xc1d353558a077334b74b6432649aba0c58e04afe",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "/images/coins/coin.png"
+    }
+  ]
+}
